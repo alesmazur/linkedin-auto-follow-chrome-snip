@@ -1,4 +1,5 @@
-# LinkedIn auto-connect snippet  <span> *for lasy users* </span>
+# LinkedIn auto-connect snippet  
+
 ## *main features:*
 
 - Enable automate connection with users;
