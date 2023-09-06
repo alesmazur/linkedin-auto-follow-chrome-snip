@@ -10,11 +10,11 @@
 
 
 ```javascript
-Go to Your LinkedIn "network" tab  to find "follow" and "connect" features
+Go to Your LinkedIn "network" Tab  to find "follow" and "connect" features
 Google Chrome - press key "F12" 
 DevTools -  go to "Sources" Tab
 Sources >> go to Snippets
 Snippets - copy & paste the snippet
 Press "Cmd+Enter" to execute it on page
-Be Happy :)
+Be Happy 🙂
 ```
